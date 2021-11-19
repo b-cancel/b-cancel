@@ -1,12 +1,11 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-
 ### Hi! I'm Bryan CANCEL <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px">
-
+<br>
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/b-cancel)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/b-cancel)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/b-cancel)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/b-cancel)](https://badges.pufler.dev)
-#### [Check Out A Gallery of My Work @ b-cancel.github.io](https://b-cancel.github.io "Just do it!")
+<br>
+#### [Check Out A Gallery of My Work @ b-cancel.github.io](https://b-cancel.github.io "Feast Your Eyes!")
 
 <!--
 **b-cancel/b-cancel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -121,11 +120,13 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### Frequented Developer Forums
+<details>
+  <summary>#### Frequented Developer Forums</summary>
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
+</details>
 
 #### IFF my streak is low... ignore... 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-cancel&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
