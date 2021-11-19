@@ -107,4 +107,4 @@ Here are some ideas to get you started:
 [Tool Badges](https://github.com/Ileriayo/markdown-badges) | [Github Badges](https://pufler.dev/git-badges/) | [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
 <br>
-[![Created Badge](https://badges.pufler.dev/created/b-cancel/b-cancel.github.io)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/b-cancel/b-cancel.github.io)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/b-cancel/b-cancel.github.io)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/b-cancel/b-cancel)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/b-cancel/b-cancel)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/b-cancel/b-cancel)](https://badges.pufler.dev)
