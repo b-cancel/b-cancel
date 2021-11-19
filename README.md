@@ -8,6 +8,21 @@
 [![Gists Badge](https://badges.pufler.dev/gists/b-cancel)](https://badges.pufler.dev)
 #### [Check Out A Gallery of My Work @ b-cancel.github.io](https://b-cancel.github.io "Just do it!")
 
+<!--
+**b-cancel/b-cancel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <details>
   <summary><b>Where to find me</b></summary>
 
@@ -127,46 +142,8 @@
 </p>
 </details>
 
-#### Pinned
-
-<p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-###### created with
+###### Created Using
 [Tool Badges](https://github.com/Ileriayo/markdown-badges) | [Github Badges](https://pufler.dev/git-badges/) | [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
 <br>
-[![Created Badge](https://badges.pufler.dev/created/b-cancel/b-cancel.github.io)](https://badges.pufler.dev) | [![Updated Badge](https://badges.pufler.dev/updated/b-cancel/b-cancel.github.io)](https://badges.pufler.dev) | [![Visits Badge](https://badges.pufler.dev/visits/b-cancel/b-cancel.github.io)](https://badges.pufler.dev)
-
-
-<!--
-**b-cancel/b-cancel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Created Badge](https://badges.pufler.dev/created/b-cancel/b-cancel.github.io)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/b-cancel/b-cancel.github.io)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/b-cancel/b-cancel.github.io)](https://badges.pufler.dev)
