@@ -1,10 +1,9 @@
 ### Hi! I'm Bryan CANCEL <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px">
-<br>
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/b-cancel)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/b-cancel)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/b-cancel)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/b-cancel)](https://badges.pufler.dev)
-<br>
+
 #### [Check Out A Gallery of My Work @ b-cancel.github.io](https://b-cancel.github.io "Feast Your Eyes!")
 
 <!--
@@ -22,17 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/b-cancel)
+#### Contact Me, Say Hello!
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://b-cancel.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/BryanCancel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.o.cancel@gmail.com)
-
-<a target="_blank" href="b-cancel.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-<a target="_blank" href="https://www.linkedin.com/in/BryanCancel"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:bryan.o.cancel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 #### Languages 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
