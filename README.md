@@ -1,6 +1,6 @@
 ### Hi! I'm Bryan CANCEL <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px">
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/b-cancel)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/b-cancel)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/b-cancel)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/b-cancel)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/b-cancel)](https://badges.pufler.dev)
 
