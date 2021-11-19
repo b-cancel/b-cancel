@@ -98,10 +98,10 @@ Here are some ideas to get you started:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
 
-#### IFF my streak is low... ignore... 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-cancel&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+#### Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=b-cancel&show_icons=true&theme=dark)](https://github.com/b-cancel)
 <br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=b-cancel&show_icons=true&theme=dark)](https://github.com/b-cancel)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-cancel&theme=dark&hide_border=false&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ###### Created Using
 [Tool Badges](https://github.com/Ileriayo/markdown-badges) | [Github Badges](https://pufler.dev/git-badges/) | [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
