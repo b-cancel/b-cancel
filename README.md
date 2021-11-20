@@ -6,7 +6,7 @@
 
 #### 
 
-🚀 I prefer to let my DEV, UX, and UI work speak for itself, [check it out @ b-cancel.github.io](https://b-cancel.github.io "Feast Your Eyes!")/
+🚀 I prefer to let my DEV, UX, and UI work speak for itself, [check it out @ b-cancel.github.io](https://b-cancel.github.io "Feast Your Eyes!")\
 📃 You can check out [my resume](https://drive.google.com/file/d/1OPnd0LWUKb0i0xLJTAFPO8JjeDeTFU9r/view?usp=sharing "Feast Your Eyes Part 2!")
 ♥️ I love bringing together knowledge from all over to create functional and beautiful tools
 🏁 I’m looking forward to building software as part of a diverse team that enjoys making people’s lives easier
