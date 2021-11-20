@@ -11,7 +11,7 @@
 ♥️ I love bringing together knowledge from all over to create functional and beautiful tools\
 🏁 I’m looking forward to building software as part of a diverse team that enjoys making people’s lives easier\
 🔨I recently built “Service Helper”, “The Get Swol App”, and my Portfolio, [check it all out @ b-cancel.github.io](https://b-cancel.github.io "Feast Your Eyes!")\
-💼 Software Engineer, Mobile Dev, Web Dev, UX & UI Designer, Graphic Designer]
+💼 Software Engineer, Mobile Dev, Web Dev, UX & UI Designer, Graphic Designer\
 🎓 Bachelors of Science in Computer Science | 3.6 GPA\
 💬 Talk to me about Flutter, React, Design (UX, UI, Industrial, Graphic), Psychology, or literally anything else\
 🏔 If I’m not learning something new, I’m enjoying the outdoors 🏃🏽🚴🏽🚣🏽  🔭 🚶🏽🏊🏽 💃🏼🏄🏽 🏇🏽 \
