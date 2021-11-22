@@ -121,6 +121,11 @@ Here are some ideas to get you started:
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-cancel&theme=dark&hide_border=false&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+#### To show appreciation => buy me a coffee <3
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bryan%2eo%2ecancel%40gmail%2ecom&lc=US&item_name=Cup%20Of%20Coffee&item_number=0000&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal Donate Button">
+</a>
+
 ###### Created Using
 [Tool Badges](https://github.com/Ileriayo/markdown-badges) | [Github Badges](https://pufler.dev/git-badges/) | [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
